@@ -1,1 +1,2 @@
-FOR LIVE https://michukng.github.io/calculatorJS/index.html
+for live:
+https://michukng.github.io/calculatorJS
